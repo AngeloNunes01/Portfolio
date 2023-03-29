@@ -5,3 +5,4 @@ Alguns canais com videos base, para você que também quer aprender:
 - https://www.youtube.com/@AdrianaSaty
 - https://www.youtube.com/@devenvolvente7181
 - https://www.youtube.com/@johnpiresdev
+- https://www.youtube.com/@CssDescomplicado
