@@ -373,3 +373,33 @@ header p {
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+.footer {
+    background-color: #150c3b;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.footer .title-footer {
+    color: #fff;
+    padding: 10px 20px 20px 10px;
+    text-shadow: 2px 2px 4px  rgb(160, 152, 152);
+}
+
+.footer .git{
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.footer .lin{
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.footer .Copyright {
+    color: #978e8e;
+    padding: 20px 20px 20px 20px;
+}
